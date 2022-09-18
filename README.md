@@ -1,0 +1,1 @@
+// This is read me file.This is clock small python project using tkinter library.
